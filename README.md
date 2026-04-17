@@ -2,9 +2,9 @@
 
 🗡️ Aspiring developer documenting my journey in tech<br/>
 🎓 Background in Business & Information Technology<br/>
-💻 Learning coding, cybersecurity, and game development<br/>
+💻 Learning coding, cybersecurity, data analytics and game development<br/>
 🎮 Building projects inspired by games and real-world systems<br/>
-🌱 Constantly improving, one step at a time<br/>
+🌱 Constantly improving, one code at a time<br/>
 
 ---
 
