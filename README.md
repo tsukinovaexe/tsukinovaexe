@@ -14,4 +14,5 @@
 💼 LinkedIn: https://www.linkedin.com/in/melany-kaasik/<br/>
 📺 YouTube: https://www.youtube.com/channel/UCBB5JXuK14refiRxsIg4EaA<br/>
 
-![samurai]https://i.pinimg.com/originals/e8/9d/db/e89ddbf1be06c3f5885e0b7af300b55c.gif
+![samurai]<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/f52e05ba-6d8a-4626-840f-c8ff4cfe0f5f" />
+
