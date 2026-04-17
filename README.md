@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Melany!
 
-<!--
-**tsukinovaexe/tsukinovaexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗡️ Aspiring developer documenting my journey in tech<br/>
+🎓 Background in Business & Information Technology<br/>
+💻 Learning coding, cybersecurity, and game development<br/>
+🎮 Building projects inspired by games and real-world systems<br/>
+🌱 Constantly improving, one step at a time<br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+
+📸 Instagram: https://www.instagram.com/mainly.melany/<br/>
+💼 LinkedIn: https://www.linkedin.com/in/melany-kaasik/<br/>
+📺 YouTube: https://www.youtube.com/channel/UCBB5JXuK14refiRxsIg4EaA<br/>
