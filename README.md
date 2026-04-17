@@ -13,3 +13,5 @@
 📸 Instagram: https://www.instagram.com/mainly.melany/<br/>
 💼 LinkedIn: https://www.linkedin.com/in/melany-kaasik/<br/>
 📺 YouTube: https://www.youtube.com/channel/UCBB5JXuK14refiRxsIg4EaA<br/>
+
+![samurai]https://i.pinimg.com/originals/e8/9d/db/e89ddbf1be06c3f5885e0b7af300b55c.gif
